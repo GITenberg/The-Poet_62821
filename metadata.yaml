@@ -1,0 +1,48 @@
+_repo: The-Poet_62821
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Booth, Franklin
+    birthdate: 1874
+    deathdate: 1948
+    gutenberg_agent_id: '43332'
+    url: http://www.gutenberg.org/2009/agents/43332
+    wikipedia: https://en.wikipedia.org/wiki/Franklin_Booth
+  - agent_name: Dwiggins, W. A. (William Addison)
+    aliases:
+    - Püterschein, Hermann
+    - Dwiggins, William Addison
+    - Dwiggins, Bill
+    - Puterschein, Hermann
+    birthdate: 1880
+    deathdate: 1956
+    gutenberg_agent_id: '52145'
+    url: http://www.gutenberg.org/2009/agents/52145
+    wikipedia: https://en.wikipedia.org/wiki/William_Addison_Dwiggins
+creator:
+  author:
+    agent_name: Nicholson, Meredith
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '4371'
+    url: http://www.gutenberg.org/2009/agents/4371
+    wikipedia: https://en.wikipedia.org/wiki/Meredith_Nicholson
+description: ''
+gutenberg_issued: '2020-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62821'
+  lccn: '14017167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Riley, James Whitcomb, 1849-1916 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Poets -- Fiction'
+- !lcsh 'Girls -- Fiction'
+- GITenberg
+title: The Poet
+url: http://www.gutenberg.org/ebooks/62821
